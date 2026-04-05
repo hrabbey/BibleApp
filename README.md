@@ -180,7 +180,7 @@ This is a faith-based project designed to build up the Christian community. When
 
 ## License
 
-This project is developed for the Christian community with the goal of advancing God's kingdom through technology.
+This project is developed for the Christian community with the goal of advancing God's kingdom through technology.  It is released under the MIT License.
 
 ## Support
 
